@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=FmModel
+comment1.params=
+comment1.target=FmModel()
+comment2.params=
+comment2.target=void\ saveJogadores()
+comment3.params=
+comment3.target=void\ saveEquipas()
+comment4.params=
+comment4.target=void\ saveJogos()
+comment5.params=nome\ numero\ velocidade\ resistencia\ destreza\ impulsao\ jogoAereo\ remate\ passe\ elasticiadde\ reflexos
+comment5.target=void\ criaRedes(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment6.params=nome\ numero\ velocidade\ resistencia\ destreza\ impulsao\ jogoAereo\ remate\ passe\ desarme\ marca\u00E7ao\ agressividade
+comment6.target=void\ criaDefesa(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment7.params=nome\ numero\ velocidade\ resistencia\ destreza\ impulsao\ jogoAereo\ remate\ passe\ desarme\ marca\u00E7ao\ agressividade\ capacidadeCruzamento\ drible
+comment7.target=void\ criaLateral(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment8.params=nome\ numero\ velocidade\ resistencia\ destreza\ impulsao\ jogoAereo\ remate\ passe\ recupera\u00E7aoDeBola\ criatividade
+comment8.target=void\ criaMedio(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment9.params=nome\ numero\ velocidade\ resistencia\ destreza\ impulsao\ jogoAereo\ remate\ passe\ finalizacao\ drible\ piorPe
+comment9.target=void\ criaAvancado(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+numComments=10

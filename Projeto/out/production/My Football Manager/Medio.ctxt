@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Medio
+comment0.text=\n\ Write\ a\ description\ of\ class\ medios\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Medio()
+comment10.params=
+comment10.target=Jogador\ clone()
+comment2.params=nome\ numero\ velocidade\ resistencia\ destreza\ impulsao\ jogoAereo\ remate\ passe\ recupera\u00E7aoDeBola\ criatividade
+comment2.target=Medio(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=m
+comment3.target=Medio(Medio)
+comment4.params=
+comment4.target=int\ getRecupera\u00E7aoDeBola()
+comment5.params=
+comment5.target=int\ getCriatividade()
+comment6.params=recupera\u00E7aoDeBola
+comment6.target=void\ setRecupera\u00E7aoDeBola(int)
+comment7.params=criatividade
+comment7.target=void\ setCriatividade(int)
+comment8.params=o
+comment8.target=boolean\ equals(java.lang.Object)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11

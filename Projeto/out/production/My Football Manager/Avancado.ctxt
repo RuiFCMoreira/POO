@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Avancado
+comment1.params=
+comment1.target=Avancado()
+comment10.params=o
+comment10.target=boolean\ equals(java.lang.Object)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment12.params=
+comment12.target=Jogador\ clone()
+comment2.params=nome\ numero\ velocidade\ resistencia\ destreza\ impulsao\ jogoAereo\ remate\ passe\ finalizacao\ drible\ piorPe
+comment2.target=Avancado(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=a
+comment3.target=Avancado(Avancado)
+comment4.params=
+comment4.target=int\ getFinalizacao()
+comment5.params=
+comment5.target=int\ getDrible()
+comment6.params=
+comment6.target=int\ getPiorPe()
+comment7.params=finalizacao
+comment7.target=void\ setFinalizacao(int)
+comment8.params=drible
+comment8.target=void\ setDrible(int)
+comment9.params=piorPe
+comment9.target=void\ setPiorPe(int)
+numComments=13

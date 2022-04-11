@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Defesa
+comment1.params=
+comment1.target=Defesa()
+comment10.params=o
+comment10.target=boolean\ equals(java.lang.Object)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment12.params=
+comment12.target=Jogador\ clone()
+comment2.params=nome\ numero\ velocidade\ resistencia\ destreza\ impulsao\ jogoAereo\ remate\ passe\ desarme\ marca\u00E7ao\ agressividade
+comment2.target=Defesa(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=d
+comment3.target=Defesa(Defesa)
+comment4.params=
+comment4.target=int\ getDesarme()
+comment5.params=
+comment5.target=int\ getMarca\u00E7ao()
+comment6.params=
+comment6.target=int\ getAgressividade()
+comment7.params=desarme
+comment7.target=void\ setDesarme(int)
+comment8.params=marca\u00E7ao
+comment8.target=void\ setMarca\u00E7ao(int)
+comment9.params=agressividade
+comment9.target=void\ setAgressividade(int)
+numComments=13
